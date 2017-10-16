@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FBAPP" GeneratedClassName="AppSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">413389452391310</Value>
+    </Setting>
+    <Setting Name="AppSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">aa9e37bc03c7a6120031884335e084ef</Value>
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Scope" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">publish_actions</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
